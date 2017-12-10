@@ -1,0 +1,28 @@
+{
+  "name": "bisom",
+  "version": "1.0.0",
+  "description": "Business Online Management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marvin Córdoba Zamora",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lobomacz/bisom.git"
+  },
+  "keywords": [
+    "Business",
+    "Online",
+    "Management",
+    "System"
+  ],
+  "bugs": {
+    "url": "https://github.com/lobomacz/bisom/issues"
+  },
+  "homepage": "https://github.com/lobomacz/bisom#readme",
+  "dependencies": {
+    "angular": "^1.6.7"
+  }
+}
